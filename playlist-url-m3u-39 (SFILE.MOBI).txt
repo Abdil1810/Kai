@@ -1,3 +1,0 @@
-﻿Playlist url m3u #39
-
-http://atg100.xyz:80/get.php?username=UL33K17&password=SYC4T9D&type=m3u_plus
